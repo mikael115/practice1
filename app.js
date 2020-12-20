@@ -86,7 +86,7 @@ const clickHandler = (e) => {
     setupQuiz();
   }else{
     window.alert('終了！あなたとミカエルの性癖共通ポイントは' + score + '/' + quizLength + 'です！');
-    window.location.href = 'https://www.hashimoto-h.wakayama-c.ed.jp/club/suugakubu/method/tyuukyuu/jump.html';
+    window.location.href = 'https://mikael115.github.io/practice1-answers/';
   }
 };
 
