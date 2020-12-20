@@ -1,5 +1,5 @@
 const quiz = [
-  {question: 'ミカエルの今狂ってるCP名は？',
+  {question: 'ミカエルが今狂ってるCP名は？',
     answers: [
     'にゃんちょぎ',
     'ちょぎくに',
