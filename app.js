@@ -85,7 +85,7 @@ const clickHandler = (e) => {
   if(quizIndex < quizLength){
     setupQuiz();
   }else{
-    window.alert('終了！あなたとミカエルの性癖共通ポイントは' + score + '/' + quizLength + 'です！');
+    window.alert('終了！ あなたとミカエルの性癖共通ポイントは' + score + '/' + quizLength + 'です！');
     window.location.href = 'https://mikael115.github.io/practice1-answers/';
   }
 };
